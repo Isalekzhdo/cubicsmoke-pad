@@ -12,11 +12,13 @@ That's lowkey it
 
 This is my hackpad
 
-<img width="882" height="532" alt="Captura de pantalla 2026-01-27 154018" src="https://github.com/user-attachments/assets/3a43e844-cd4e-4d67-9684-0171c6ccec61" />
+<img width="792" height="489" alt="image" src="https://github.com/user-attachments/assets/d3935705-446b-485e-9c84-165b1e135265" />
 
 This is my schematic and PCB
 
-<img width="590" height="357" alt="Captura de pantalla 2026-01-26 215947" src="https://github.com/user-attachments/assets/56efb5f3-5b05-451d-a09a-8dde564f11ed" />
+<img width="828" height="539" alt="image" src="https://github.com/user-attachments/assets/9546f144-bbfc-4cc7-ae14-012515436db2" />
 
-<img width="560" height="522" alt="Captura de pantalla 2026-01-26 220009" src="https://github.com/user-attachments/assets/b2bdd519-97a8-4856-a9b0-a2bfeb538091" />
+
+<img width="593" height="522" alt="image" src="https://github.com/user-attachments/assets/00d3f849-9aef-40d8-8015-018d94e60516" />
+
 
